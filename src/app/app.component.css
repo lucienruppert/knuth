@@ -1,0 +1,9 @@
+:host {
+  @apply flex flex-col items-center pt-20 bg-black text-orange-400 h-auto min-h-screen;
+}
+select {
+  @apply text-2xl text-black;
+}
+/* * {
+  @apply border-2;
+} */
